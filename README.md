@@ -1,6 +1,6 @@
 # Chess-cheater
 
-Uses Vue.js for front-end and php for back-end
+Uses Vue.js for front-end and php for back-end.
 A Wordle like website where user can log in every day to play a chess game against a bot, which changes its strategy (cheats) every day. User has only 1 chance to beat the bot by outplaying its trickery.
 
 Files:
